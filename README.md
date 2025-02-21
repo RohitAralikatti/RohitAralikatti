@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Aralikatti!
 
-🎯 **Quality Assurance & AI Enthusiast**  
+🎯 **AI&ML Enthusiast**  
 🚀 Passionate about building AI/ML solutions and ensuring software quality through rigorous testing.  
 
 ## 📌 About Me
