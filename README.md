@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rohit Aralikatti!
 
 🎯 **AI&ML Enthusiast**  
-🚀 Passionate about building AI/ML solutions and ensuring software quality through rigorous testing.  
+🚀 Passionate about building AI/ML solutions and ensuring software quality.  
 
 ## 📌 About Me
 - 🏗 **Currently Pursuing:** Master's in **Applied Artificial Intelligence** at *Stevens Institute of Technology*  
