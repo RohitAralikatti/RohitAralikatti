@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/github_banner.png" alt="Welcome Banner" />
+  <img src="https://raw.githubusercontent.com/RohitAralikatti/RohitAralikatti/main/assets/github_banner.png" alt="Welcome Banner" />
 </p>
 
 # 👋 Hi, I'm **Rohit Aralikatti**
