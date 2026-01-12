@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github_banner.png" width="800"/>
+</p>
+
 # 👋 Hi, I'm **Rohit Aralikatti**
 
 🚀 **AI / Machine Learning Engineer** | **Applied ML & GenAI Systems**  
